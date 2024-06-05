@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>assets\icons8-qr-96_1.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons8-qr-96.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="assets\icons8-qr-96_1.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp" Version="6.3.0" />
+    <PackageReference Include="QRCoder" Version="1.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons8-qr-96.png" />
+  </ItemGroup>
+
+</Project>

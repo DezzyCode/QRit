@@ -1,0 +1,2 @@
+C:\Users\denny\Desktop\QRit\QRit\bin\Release\net8.0-windows\win-x64\publish\QRit.pdb
+C:\Users\denny\Desktop\QRit\QRit\bin\Release\net8.0-windows\win-x64\publish\QRit.exe

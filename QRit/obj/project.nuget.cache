@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5wrvgCgjio=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denny\\Desktop\\QRit\\QRit\\QRit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denny\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

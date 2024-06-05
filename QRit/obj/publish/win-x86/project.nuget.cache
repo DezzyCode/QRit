@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcVMDFTtuW8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denny\\Desktop\\QRit\\QRit\\QRit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denny\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.5\\microsoft.netcore.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\denny\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.5\\microsoft.netcore.app.crossgen2.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

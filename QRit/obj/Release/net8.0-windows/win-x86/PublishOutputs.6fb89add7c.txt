@@ -1,0 +1,7 @@
+C:\Users\denny\Desktop\QRit_V1.0.0\QRit.pdb
+C:\Users\denny\Desktop\QRit_V1.0.0\D3DCompiler_47_cor3.dll
+C:\Users\denny\Desktop\QRit_V1.0.0\PenImc_cor3.dll
+C:\Users\denny\Desktop\QRit_V1.0.0\PresentationNative_cor3.dll
+C:\Users\denny\Desktop\QRit_V1.0.0\vcruntime140_cor3.dll
+C:\Users\denny\Desktop\QRit_V1.0.0\wpfgfx_cor3.dll
+C:\Users\denny\Desktop\QRit_V1.0.0\QRit.exe
